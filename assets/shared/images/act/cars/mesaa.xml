@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="mesaa.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Tween 2 instance 10000" x="50" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10001" x="50" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10002" x="1259" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10003" x="2468" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10004" x="50" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10005" x="1259" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10006" x="50" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10007" x="2468" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10008" x="2468" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10009" x="50" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10010" x="1259" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10011" x="50" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10012" x="2468" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10013" x="50" y="1757" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10014" x="50" y="1757" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10015" x="50" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10016" x="50" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10017" x="1259" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10018" x="2468" y="50" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10019" x="50" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10020" x="1259" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10021" x="50" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10022" x="2468" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10023" x="2468" y="619" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10024" x="50" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10025" x="1259" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10026" x="50" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10027" x="2468" y="1188" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10028" x="50" y="1757" width="1159" height="519"/>
+	<SubTexture name="Tween 2 instance 10029" x="50" y="1757" width="1159" height="519"/>
+</TextureAtlas>

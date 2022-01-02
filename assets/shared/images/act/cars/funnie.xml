@@ -1,0 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="funnie.png"><SubTexture name="funnie bruhsoundeffect0000" x="0" y="0" width="1924" height="544" frameX="0" frameY="0" frameWidth="1924" frameHeight="544" />
+<SubTexture name="funnie bruhsoundeffect0001" x="0" y="544" width="1924" height="544" frameX="0" frameY="0" frameWidth="1924" frameHeight="544" />
+</TextureAtlas>

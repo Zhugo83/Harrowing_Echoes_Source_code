@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="ZhugoAnimationsINSANE.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Down Insane0000" x="8" y="8" width="460" height="542" frameX="-1" frameY="-2" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Down Insane0001" x="492" y="8" width="460" height="532" frameX="0" frameY="-12" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Down Insane0002" x="976" y="8" width="406" height="544" frameX="-34" frameY="0" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Down Insane0003" x="1406" y="8" width="400" height="533" frameX="-34" frameY="-11" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Down Insane0004" x="1830" y="8" width="395" height="538" frameX="-34" frameY="-6" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Down Insane0005" x="2249" y="8" width="411" height="538" frameX="-34" frameY="-6" frameWidth="461" frameHeight="544"/>
+	<SubTexture name="Left Insane0000" x="2684" y="8" width="413" height="579" frameX="-19" frameY="-14" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0001" x="3121" y="8" width="399" height="572" frameX="0" frameY="-23" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0002" x="3544" y="8" width="349" height="579" frameX="-57" frameY="-14" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0003" x="8" y="611" width="369" height="593" frameX="-21" frameY="0" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0004" x="401" y="611" width="371" height="580" frameX="-18" frameY="-15" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0005" x="796" y="611" width="370" height="577" frameX="-22" frameY="-18" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Left Insane0006" x="1190" y="611" width="372" height="572" frameX="-21" frameY="-23" frameWidth="432" frameHeight="595"/>
+	<SubTexture name="Right Insane0000" x="1586" y="611" width="539" height="621" frameX="0" frameY="0" frameWidth="557" frameHeight="621"/>
+	<SubTexture name="Right Insane0001" x="2149" y="611" width="520" height="604" frameX="-37" frameY="-17" frameWidth="557" frameHeight="621"/>
+	<SubTexture name="Right Insane0002" x="2693" y="611" width="424" height="621" frameX="-60" frameY="0" frameWidth="557" frameHeight="621"/>
+	<SubTexture name="Right Insane0003" x="3141" y="611" width="431" height="617" frameX="-60" frameY="-4" frameWidth="557" frameHeight="621"/>
+	<SubTexture name="Right Insane0004" x="3596" y="611" width="431" height="591" frameX="-58" frameY="-30" frameWidth="557" frameHeight="621"/>
+	<SubTexture name="Up Insane0000" x="8" y="1256" width="437" height="676" frameX="0" frameY="0" frameWidth="452" frameHeight="676"/>
+	<SubTexture name="Up Insane0001" x="469" y="1256" width="433" height="664" frameX="-19" frameY="-12" frameWidth="452" frameHeight="676"/>
+	<SubTexture name="Up Insane0002" x="926" y="1256" width="337" height="676" frameX="-69" frameY="0" frameWidth="452" frameHeight="676"/>
+	<SubTexture name="Up Insane0003" x="1287" y="1256" width="339" height="668" frameX="-58" frameY="-8" frameWidth="452" frameHeight="676"/>
+	<SubTexture name="Up Insane0004" x="1650" y="1256" width="337" height="672" frameX="-54" frameY="-4" frameWidth="452" frameHeight="676"/>
+	<SubTexture name="Up Insane0005" x="2011" y="1256" width="341" height="671" frameX="-69" frameY="-5" frameWidth="452" frameHeight="676"/>
+</TextureAtlas>

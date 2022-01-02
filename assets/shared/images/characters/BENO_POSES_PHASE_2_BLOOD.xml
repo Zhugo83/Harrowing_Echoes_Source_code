@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BENO_POSES_PHASE_2_BLOOD.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beno_phase2_down_blood0000" x="2451" y="0" width="619" height="897" frameX="0" frameY="-6" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0001" x="2451" y="0" width="619" height="897" frameX="0" frameY="-6" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0002" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0003" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0004" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0005" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0006" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0007" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0008" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0009" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0010" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0011" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0012" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0013" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_down_blood0014" x="2493" y="1879" width="612" height="903" frameX="-5" frameY="0" frameWidth="619" frameHeight="903"/>
+	<SubTexture name="beno_phase2_idle_blood0000" x="582" y="2890" width="468" height="947" frameX="-1" frameY="-9" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0001" x="582" y="2890" width="468" height="947" frameX="-1" frameY="-9" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0002" x="1221" y="2858" width="471" height="944" frameX="0" frameY="-12" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0003" x="1221" y="2858" width="471" height="944" frameX="0" frameY="-12" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0004" x="2493" y="2783" width="471" height="947" frameX="0" frameY="-9" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0005" x="2493" y="2783" width="471" height="947" frameX="0" frameY="-9" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0006" x="2551" y="898" width="469" height="955" frameX="0" frameY="-1" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0007" x="2551" y="898" width="469" height="955" frameX="0" frameY="-1" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0008" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0009" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0010" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0011" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0012" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_idle_blood0013" x="1808" y="2816" width="466" height="956" frameX="-1" frameY="0" frameWidth="471" frameHeight="956"/>
+	<SubTexture name="beno_phase2_left_blood0000" x="3071" y="0" width="581" height="951" frameX="-4" frameY="-2" frameWidth="586" frameHeight="953"/>
+	<SubTexture name="beno_phase2_left_blood0001" x="3071" y="0" width="581" height="951" frameX="-4" frameY="-2" frameWidth="586" frameHeight="953"/>
+	<SubTexture name="beno_phase2_left_blood0002" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0003" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0004" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0005" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0006" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0007" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0008" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0009" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0010" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0011" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0012" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0013" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_left_blood0014" x="1221" y="1904" width="586" height="953"/>
+	<SubTexture name="beno_phase2_right_blood0000" x="1856" y="1879" width="636" height="936" frameX="-1" frameY="-1" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0001" x="1856" y="1879" width="636" height="936" frameX="-1" frameY="-1" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0002" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0003" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0004" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0005" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0006" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0007" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0008" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0009" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0010" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0011" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0012" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0013" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_right_blood0014" x="0" y="1904" width="629" height="937" frameX="0" frameY="0" frameWidth="637" frameHeight="937"/>
+	<SubTexture name="beno_phase2_up_blood0000" x="0" y="2842" width="581" height="993" frameX="-5" frameY="0" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0001" x="0" y="2842" width="581" height="993" frameX="-5" frameY="0" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0002" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0003" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0004" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0005" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0006" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0007" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0008" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0009" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0010" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0011" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0012" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0013" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_phase2_up_blood0014" x="630" y="1904" width="590" height="985" frameX="0" frameY="-8" frameWidth="590" frameHeight="993"/>
+	<SubTexture name="beno_slash_blood0000" x="1856" y="936" width="694" height="942" frameX="0" frameY="0" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0001" x="991" y="0" width="732" height="935" frameX="-10" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0002" x="991" y="0" width="732" height="935" frameX="-10" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0003" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0004" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0005" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0006" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0007" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0008" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0009" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0010" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0011" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0012" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0013" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_slash_blood0014" x="1724" y="0" width="726" height="935" frameX="-9" frameY="-2" frameWidth="742" frameHeight="942"/>
+	<SubTexture name="beno_stab_blood0000" x="965" y="952" width="890" height="951" frameX="0" frameY="-5" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0001" x="0" y="0" width="990" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0002" x="0" y="0" width="990" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0003" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0004" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0005" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0006" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0007" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0008" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0009" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0010" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0011" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0012" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0013" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+	<SubTexture name="beno_stab_blood0014" x="0" y="952" width="964" height="951" frameX="-8" frameY="0" frameWidth="998" frameHeight="956"/>
+</TextureAtlas>

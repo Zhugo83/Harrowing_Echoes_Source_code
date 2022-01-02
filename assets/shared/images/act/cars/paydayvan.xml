@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="paydayvan.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="payday 2 van instance 10000" x="50" y="50" width="1621" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10001" x="1721" y="50" width="1617" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10002" x="50" y="789" width="1612" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10003" x="1712" y="789" width="1607" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10004" x="50" y="1528" width="1604" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10005" x="1704" y="1528" width="1609" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10006" x="50" y="2267" width="1615" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10007" x="1715" y="2267" width="1619" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10008" x="50" y="3006" width="1623" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10009" x="1723" y="3006" width="1625" height="689"/>
+	<SubTexture name="payday 2 van instance 10010" x="50" y="50" width="1621" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10011" x="1721" y="50" width="1617" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10012" x="50" y="789" width="1612" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10013" x="1712" y="789" width="1607" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10014" x="50" y="1528" width="1604" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10015" x="1704" y="1528" width="1609" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10016" x="50" y="2267" width="1615" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10017" x="1715" y="2267" width="1619" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10018" x="50" y="3006" width="1623" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10019" x="1723" y="3006" width="1625" height="689"/>
+	<SubTexture name="payday 2 van instance 10020" x="50" y="50" width="1621" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10021" x="1721" y="50" width="1617" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10022" x="50" y="789" width="1612" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10023" x="1712" y="789" width="1607" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10024" x="50" y="1528" width="1604" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10025" x="1704" y="1528" width="1609" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10026" x="50" y="2267" width="1615" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10027" x="1715" y="2267" width="1619" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10028" x="50" y="3006" width="1623" height="689" frameX="0" frameY="0" frameWidth="1625" frameHeight="689"/>
+	<SubTexture name="payday 2 van instance 10029" x="1723" y="3006" width="1625" height="689"/>
+</TextureAtlas>

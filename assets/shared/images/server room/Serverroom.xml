@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Serverroom.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Bgglitch1 0001" x="8" y="8" width="1920" height="915"/>
+	<SubTexture name="Bgglitch1 0000" x="1952" y="947" width="1920" height="915"/>
+	<SubTexture name="Bgglitch2 0000" x="1952" y="8" width="1920" height="915"/>
+	<SubTexture name="Bgglitch2 0001" x="8" y="1886" width="1920" height="915"/>
+	<SubTexture name="Bgglitch3 0000" x="8" y="947" width="1920" height="915"/>
+	<SubTexture name="Bgglitch3 0001" x="1952" y="1886" width="1920" height="915"/>
+</TextureAtlas>

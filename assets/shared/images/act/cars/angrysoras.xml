@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="angrysoras.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10000" x="50" y="50" width="1130" height="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10001" x="1230" y="50" width="1130" height="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10002" x="2410" y="50" width="1130" height="468" frameX="0" frameY="-3" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10003" x="50" y="571" width="1130" height="468" frameX="0" frameY="-3" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10004" x="1230" y="571" width="1130" height="470" frameX="0" frameY="-1" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10005" x="2410" y="571" width="1130" height="470" frameX="0" frameY="-1" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10006" x="50" y="1091" width="1130" height="469" frameX="0" frameY="-2" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car HEY WHAT THE FUCK MOVE instance 10007" x="1230" y="1091" width="1130" height="469" frameX="0" frameY="-2" frameWidth="1130" frameHeight="471"/>
+	<SubTexture name="asea car grrr instance 10000" x="2410" y="1091" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10001" x="50" y="1611" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10002" x="1230" y="1611" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10003" x="2410" y="1611" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10004" x="2410" y="1091" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10005" x="50" y="1611" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10006" x="1230" y="1611" width="1130" height="470"/>
+	<SubTexture name="asea car grrr instance 10007" x="2410" y="1611" width="1130" height="470"/>
+</TextureAtlas>

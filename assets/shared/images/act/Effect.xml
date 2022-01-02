@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Effect.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Effect0000" x="0" y="0" width="2100" height="1500"/>
+	<SubTexture name="Effect0001" x="2100" y="0" width="2100" height="1500"/>
+	<SubTexture name="Effect0002" x="4200" y="0" width="2100" height="1500"/>
+	<SubTexture name="Effect0003" x="0" y="1500" width="2100" height="1500"/>
+	<SubTexture name="Effect0004" x="2100" y="1500" width="2100" height="1500"/>
+	<SubTexture name="Effect0005" x="4200" y="1500" width="2100" height="1500"/>
+	<SubTexture name="Effect0006" x="0" y="3000" width="2100" height="1500"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Pizzaman.png">
+	<!-- Created with Adobe Animate version 18.0.1.115 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="pizza man bike instance 10000" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10001" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10002" x="784" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10003" x="784" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10004" x="50" y="732" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10005" x="50" y="732" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10006" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10007" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10008" x="784" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10009" x="784" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10010" x="50" y="732" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10011" x="50" y="732" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10012" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10013" x="50" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10014" x="784" y="50" width="684" height="632"/>
+	<SubTexture name="pizza man bike instance 10015" x="784" y="50" width="684" height="632"/>
+</TextureAtlas>

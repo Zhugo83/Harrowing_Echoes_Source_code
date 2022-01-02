@@ -1,0 +1,57 @@
+:cutsceneb:
+:cutscene: Jeez, tough day today...
+:cutscene: You can say that again...
+:cutscene: ...
+:cutscene: Wait what time is it ?
+:cutscene: Uh... past 10 PM
+:cutscene: Crap... we're gonna be late...
+:cutscene: Hey I know, we could go through this alleyway, there's a quick shortcut we can take.
+:cutscene: Ehh... sure, I suppose we could
+:cutscene2: I don't like the look of this place... and those posters...
+:cutscene2gf: Don't worry, I've taken this path before !
+:cutscene2gf: It's not like anyone is gonna bother us here.
+:cutscene2: If you say so...
+:jixshadow:
+:jixreveal:
+:gfshock: Huh ? Who's this ?
+:benoshocked: Who are you ? I've got a microphone...
+:benodots: And...
+:benoshocked: Im afraid to use it !
+:jixsuspense: Been a while hasn't it...
+:benoshocked: ?
+:gfshock: ?
+:jixhappy: Mate !
+:benoshocked: Wait-
+:benomusic: Jix ?!
+:jixhappy: Beno !
+:gfshock: Who's Jix ?
+:benoshocked: Oh crap, yeah, about that-
+:beno: Girlfriend, this is Jix !
+:benohappy: He's pretty much like the brother I never had 
+:benohappy: We go back since like what, elementary school ?
+:gfshock: Elementary school ?
+:gfshock: He looks old enough to be YOUR DAD !
+:benoshocked: Yeah- 
+:benosad: He's just one of those guys...
+:gfshock: Don't tell me he dropped out that late...
+:jixhappy: Guilty as charged !
+:benosad: Man I miss the old stuff we used to do...
+:jixtalking: Like pretending to fight zombies during recess ?
+:beno: Dude that used to be the SHIT back then !
+:jixhappy: HELL YEAH !
+:benohappy: HELL YEAH !
+:gfshock: (what the funk are they both on about now...)
+:beno: How you've been since ? I haven't heard anything from you ever since you left town
+:benosad: That was what... 5 years ago?
+:jixtalking: Eh, not much, just had to move out for a bit
+:jixsad: You know how tough it was back then.
+:benosad: Yeah true... 
+:beno: Actually... what are you doing here of all places ?
+:jixhappy: Well, can't an old friend do some catching up ?
+:beno: Oh you wanna go for a round ?
+:jixhappy: Yeah, why not ? 
+:jixtalking: Im sure there's quite some stuff we gotta talk about !
+:benohappy: Alright bro, you're on ! 
+:beno: Girlfriend you down ?
+:gf: Yeah why not
+:gfphone: At this point im just accepting whatever is happening-

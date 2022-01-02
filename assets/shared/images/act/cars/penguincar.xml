@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="penguincar.png">
+	<!-- Created with Adobe Animate version 20.5.0.29329 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="penguins car instance 10000" x="50" y="50" width="709" height="354" frameX="0" frameY="-31" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10001" x="809" y="50" width="709" height="354" frameX="0" frameY="-31" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10002" x="50" y="454" width="685" height="377" frameX="0" frameY="-8" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10003" x="50" y="454" width="685" height="377" frameX="0" frameY="-8" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10004" x="785" y="454" width="698" height="365" frameX="0" frameY="-20" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10005" x="50" y="881" width="698" height="365" frameX="0" frameY="-20" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10006" x="798" y="881" width="681" height="385" frameX="0" frameY="0" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10007" x="798" y="881" width="681" height="385" frameX="0" frameY="0" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10008" x="50" y="1316" width="694" height="369" frameX="0" frameY="-16" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10009" x="50" y="1316" width="694" height="369" frameX="0" frameY="-16" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10010" x="50" y="50" width="709" height="354" frameX="0" frameY="-31" frameWidth="709" frameHeight="385"/>
+	<SubTexture name="penguins car instance 10011" x="50" y="50" width="709" height="354" frameX="0" frameY="-31" frameWidth="709" frameHeight="385"/>
+</TextureAtlas>

@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="BENO_POSES_PHASE3_ALT.png">
+	<!-- Created with Adobe Animate version 20.0.2.22168 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="beno_phase3_down_alt0000" x="467" y="2847" width="465" height="935" frameX="-1" frameY="-4" frameWidth="466" frameHeight="939"/>
+	<SubTexture name="beno_phase3_down_alt0001" x="467" y="2847" width="465" height="935" frameX="-1" frameY="-4" frameWidth="466" frameHeight="939"/>
+	<SubTexture name="beno_phase3_down_alt0002" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0003" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0004" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0005" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0006" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0007" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0008" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0009" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0010" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0011" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0012" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0013" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_down_alt0014" x="935" y="2838" width="466" height="939"/>
+	<SubTexture name="beno_phase3_idle_alt0000" x="1403" y="1912" width="465" height="948" frameX="-1" frameY="-7" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0001" x="1403" y="1912" width="465" height="948" frameX="-1" frameY="-7" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0002" x="935" y="1891" width="467" height="946" frameX="0" frameY="-9" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0003" x="935" y="1891" width="467" height="946" frameX="0" frameY="-9" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0004" x="0" y="984" width="467" height="953" frameX="0" frameY="-2" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0005" x="0" y="984" width="467" height="953" frameX="0" frameY="-2" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0006" x="0" y="1938" width="466" height="954" frameX="0" frameY="-1" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0007" x="0" y="1938" width="466" height="954" frameX="0" frameY="-1" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0008" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0009" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0010" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0011" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0012" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_idle_alt0013" x="1407" y="0" width="466" height="955" frameX="0" frameY="0" frameWidth="467" frameHeight="955"/>
+	<SubTexture name="beno_phase3_left_alt0000" x="934" y="947" width="472" height="943" frameX="0" frameY="-3" frameWidth="472" frameHeight="946"/>
+	<SubTexture name="beno_phase3_left_alt0001" x="934" y="947" width="472" height="943" frameX="0" frameY="-3" frameWidth="472" frameHeight="946"/>
+	<SubTexture name="beno_phase3_left_alt0002" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0003" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0004" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0005" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0006" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0007" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0008" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0009" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0010" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0011" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0012" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0013" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_left_alt0014" x="934" y="0" width="472" height="946"/>
+	<SubTexture name="beno_phase3_right_alt0000" x="1407" y="956" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0001" x="1407" y="956" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0002" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0003" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0004" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0005" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0006" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0007" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0008" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0009" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0010" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0011" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0012" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0013" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_right_alt0014" x="468" y="1891" width="466" height="955"/>
+	<SubTexture name="beno_phase3_up_alt0000" x="0" y="0" width="466" height="983"/>
+	<SubTexture name="beno_phase3_up_alt0001" x="0" y="0" width="466" height="983"/>
+	<SubTexture name="beno_phase3_up_alt0002" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0003" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0004" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0005" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0006" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0007" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0008" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0009" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0010" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0011" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0012" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0013" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+	<SubTexture name="beno_phase3_up_alt0014" x="467" y="0" width="466" height="981" frameX="0" frameY="-2" frameWidth="466" frameHeight="983"/>
+</TextureAtlas>

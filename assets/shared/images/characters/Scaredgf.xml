@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="Scaredgf.png"><SubTexture name="Scaredgf gfvryscrd0000" x="0" y="0" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfvryscrd0001" x="454" y="0" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfvryscrd0002" x="908" y="0" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfvryscrd0003" x="0" y="600" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfvryscrd0004" x="454" y="600" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfscrd0000" x="0" y="1800" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfscrd0001" x="908" y="1200" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfscrd0002" x="454" y="1200" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfscrd0003" x="0" y="1200" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+<SubTexture name="Scaredgf gfscrd0004" x="908" y="600" width="454" height="600" frameX="0" frameY="0" frameWidth="454" frameHeight="600" />
+</TextureAtlas>
