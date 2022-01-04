@@ -4813,7 +4813,7 @@ class PlayState extends MusicBeatState
 		// FlxG.log.add('change bpm' + SONG.notes[Std.int(curStep / 16)].changeBPM);
 		wiggleShit.update(Conductor.crochet);
 
-		if (FlxG.save.data.camzoom)
+		if (FlxG.save.data.camzoom && !endingShown)
 		{
 			// ZOOOMMM !! -Z
 			switch(curSong.toLowerCase()){
